@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429235518044",
+    "project_id": "login-signup-auth-9cd4f",
+    "storage_bucket": "login-signup-auth-9cd4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429235518044:android:afd4b8c67196e9e2658499",
+        "android_client_info": {
+          "package_name": "com.example.loginsignupauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrv4CIufyR4DrzPA4mT_niyGFULyF8i5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
